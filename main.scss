@@ -1,0 +1,65 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+section.intro {
+    background-image: url(images/Header-llustration-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+header nav div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.2vw;
+
+    a {
+        padding: 1.806vw 0 0;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 20px;
+        color: #344563;
+        text-decoration: none !important;
+    }
+}
+
+div.headline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12.917vw 0 0;
+
+    h1 {
+        color: #172B4D;
+        text-align: center;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 48px;
+        line-height: 60px;
+        letter-spacing: 0.37px;
+
+        span {
+            color: #36B37E;
+        }
+    }
+
+    p {
+        margin: 1.667vw 18.056vw 1.667vw;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 32px;
+        text-align: center;
+        color: #172B4D;
+    }
+    
+    ul {
+    display: flex;
+    align-items: baseline;
+    list-style: none;
+    gap: 1.458vw;
+    }
+}
