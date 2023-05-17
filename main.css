@@ -57,4 +57,43 @@ div.headline ul {
   align-items: baseline;
   list-style: none;
   gap: 1.458vw;
+}
+
+h2.subtitle {
+  width: 447px;
+  height: 48px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #172B4D;
+}
+
+div.card h5 {
+  width: 337px;
+  height: 57px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  padding-left: 15px;
+  color: #172B4D;
+}
+div.card h4 {
+  width: 337px;
+  height: 57px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  padding-left: 15px;
+  color: #172B4D;
+  margin-top: -30px;
+  margin-left: 35px;
 }/*# sourceMappingURL=main.css.map */
